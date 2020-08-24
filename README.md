@@ -20,7 +20,7 @@ Here i scoured the internet to find the different ways to calculate the digits o
   > <img src="https://render.githubusercontent.com/render/math?math=\frac{\pi}{6} =1 - \frac{1}{3} plus \frac{1}{5} - \frac{1}{7} plus \frac{1}{9} .....">
 
 
-*Note* : there is + between each of the terms in the Nilakantha Series. But Github Markdown is not rendering it
+*Note* : I have purposefully added "plus" as "+" from Latex is not being rendered properly.
 
 
 

@@ -24,9 +24,10 @@ Here i scoured the internet to find the different ways to calculate the digits o
   > <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{\pi} = \frac{2\sqrt{2}}{9801}\sum_{k=0}^{\infty}\frac{(4k)!(1103{--}26390k)}{(k!)^4(396^{4k})}">
 
 * **pi_8** : Spigot Algorithm
-  > <img src="https://render.githubusercontent.com/render/math?math=\pi = \sum_{k=0}^{k=\infty} \frac{1}{16^k} \left(\frac{4}{8k {--} 1} - \frac{2}{8k {--} 4} - \frac{1}{8k{--} 5} - \frac{1}{8k{--}6} \right)">
+  >  <img src="https://render.githubusercontent.com/render/math?math=\pi = \sum_{k=0}^{k=\infty} \frac{1}{16^k} \left(\frac{4}{8k {--} 1} - \frac{2}{8k {--} 4} - \frac{1}{8k{--} 5} - \frac{1}{8k{--}6} \right)">
 
-* **pi_9** : 
+* **pi_9** : Definite Integrals : from half-area of a circle
+  >  <img src="https://render.githubusercontent.com/render/math?math=\frac{\pi}{2} = \int_{-1}^{1} \sqrt{1-x^2}dx">
 
 *Note* : I have purposefully added "- - " as "+" because Latex is not rendereing "+" properly. So I have used -- to denote +
 

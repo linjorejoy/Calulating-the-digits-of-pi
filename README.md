@@ -4,7 +4,7 @@
 Here i scoured the internet to find the different ways to calculate the digits of 𝜋
 
 * **Issac Newtons's Method** : Got inspiration from Matt Parker's "Calculate pi by    hand Video [Youtube video](https://www.youtube.com/watch?v=CKl1B8y4qXw "Matt Parker's video")
-  > <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi = \frac{3\sqrt{3}}{4} + 24\left( \frac{1}{12} - \frac{1}{5.2^5} - \frac{1}{7.2^9} - \frac{1}{9.2^12} - .....\right)">
+  > <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=\frac{3\sqrt{3}}{4}+24\left(\frac{1}{12}-\frac{1}{5.2^5}-\frac{1}{7.2^9}-\frac{1}{9.2^12}-.....\right)">
 
 * **Chudnovsky algorithm** : This is also from Matt Parker's another video [Youtube video](https://www.youtube.com/watch?v=LhlqCJjbEa0 "Other Video")
   > <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi = \frac{426880\sqrt{10005}}{\sum_{k=0}^{\infty} \frac{(6k)!(545140134k + 13591409)}{(3k)!(k!)^3(-262537412640768000^k)}}">
@@ -36,3 +36,10 @@ Here i scoured the internet to find the different ways to calculate the digits o
 * **From Known Identity Of Inverse Trignometric Function**
   >  <img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{\pi}{4} = \tan^{-1} (1) = \int_{0}^{1}\frac{1}{1+x^2}dx"/>
 
+*Note* : I have purposefully added "- - " as "+" because Latex is not rendereing "+" properly. So I have used -- to denote +
+
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2+4ac}}{2a}"/>
+
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{\pi}{2} = \sum_{n=0}^{\infty} \frac{n!}{(2n + 1)!!}"/>

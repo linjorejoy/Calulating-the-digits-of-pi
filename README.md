@@ -36,7 +36,6 @@ Here i scoured the internet to find the different ways to calculate the digits o
 * **From Known Identity Of Inverse Trignometric Function**
   >  <img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{\pi}{4}=\tan^{-1}(1)=\int_{0}^{1}\frac{1}{1+x^2}dx"/>
 
-*Note* : I have purposefully added "- - " as "+" because Latex is not rendereing "+" properly. So I have used -- to denote +
 
 <!-- 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2+4ac}}{2a}"/>

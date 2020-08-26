@@ -4,7 +4,7 @@
 Here i scoured the internet to find the different ways to calculate the digits of 𝜋
 
 * **Issac Newtons's Method** : Got inspiration from Matt Parker's "Calculate pi by    hand Video [Youtube video](https://www.youtube.com/watch?v=CKl1B8y4qXw "Matt Parker's video")
-  > <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=\frac{3\sqrt{3}}{4}+24\left(\frac{1}{12}-\frac{1}{5.2^5}-\frac{1}{7.2^9}-\frac{1}{9.2^12}-.....\right)">
+  > <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=\frac{3\sqrt{3}}{4}+24\left(\frac{1}{12}-\frac{1}{5.2^5}-\frac{1}{7.2^9}-\frac{1}{9.2^{12}}-.....\right)">
 
 * **Chudnovsky algorithm** : This is also from Matt Parker's another video [Youtube video](https://www.youtube.com/watch?v=LhlqCJjbEa0 "Other Video")
   > <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=\frac{426880\sqrt{10005}}{\sum_{k=0}^{\infty}\frac{(6k)!(545140134k+13591409)}{(3k)!(k!)^3(-262537412640768000^k)}}">

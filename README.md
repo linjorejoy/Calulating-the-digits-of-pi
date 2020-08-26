@@ -7,7 +7,7 @@ Here i scoured the internet to find the different ways to calculate the digits o
   > <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=\frac{3\sqrt{3}}{4}+24\left(\frac{1}{12}-\frac{1}{5.2^5}-\frac{1}{7.2^9}-\frac{1}{9.2^12}-.....\right)">
 
 * **Chudnovsky algorithm** : This is also from Matt Parker's another video [Youtube video](https://www.youtube.com/watch?v=LhlqCJjbEa0 "Other Video")
-  > <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=\frac{426880\sqrt{10005}}{\sum_{k=0}^{\infty} \frac{(6k)!(545140134k+13591409)}{(3k)!(k!)^3(-262537412640768000^k)}}">
+  > <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=\frac{426880\sqrt{10005}}{\sum_{k=0}^{\infty}\frac{(6k)!(545140134k+13591409)}{(3k)!(k!)^3(-262537412640768000^k)}}">
 
 * **Basel Problem** : From the famous Euler's Equation(Basel problem) 
    >  <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=\sum_{n=1}^{\infty}\frac{1}{n^2}">

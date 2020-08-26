@@ -30,7 +30,7 @@ Here i scoured the internet to find the different ways to calculate the digits o
   >  <img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{\pi}{2}=\int_{-1}^{1}\sqrt{1-x^2}dx">
 
 * **Euler's Convergence Improvement Transformation** 
-  >  <img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{\pi}{2}=\sum_{n=0}^{\infty}\frac{n!}{(2n + 1)!!}"/>
+  >  <img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{\pi}{2}=\sum_{n=0}^{\infty}\frac{n!}{(2n+1){!!}}"/>
   [Referance](https://mathworld.wolfram.com/PiFormulas.html "Click this")
 
 * **From Known Identity Of Inverse Trignometric Function**

@@ -7,7 +7,7 @@ Here i scoured the internet to find the different ways to calculate the digits o
   > <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=\frac{3\sqrt{3}}{4}+24\left(\frac{1}{12}-\frac{1}{5.2^5}-\frac{1}{7.2^9}-\frac{1}{9.2^{12}}-.....\right)">
 
 * **Chudnovsky algorithm** : This is also from Matt Parker's another video [Youtube video](https://www.youtube.com/watch?v=LhlqCJjbEa0 "Other Video")
-  > <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=\frac{426880\sqrt{10005}}{\sum_{k=0}^{\infty}\frac{(6k)!(545140134k+13591409)}{(3k)!(k!)^3(-262537412640768000^k)}}">
+  > <img src="https://latex.codecogs.com/svg.latex?\dpi{400}\Large&space;\pi=\frac{426880\sqrt{10005}}{\sum_{k=0}^{\infty}\frac{(6k)!(545140134k+13591409)}{(3k)!(k!)^3(-262537412640768000^k)}}">
 
 * **Basel Problem** : From the famous Euler's Equation(Basel problem) 
    >  <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=\sum_{n=1}^{\infty}\frac{1}{n^2}">
@@ -36,8 +36,15 @@ Here i scoured the internet to find the different ways to calculate the digits o
 * **From Known Identity Of Inverse Trignometric Function**
   >  <img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{\pi}{4}=\tan^{-1}(1)=\int_{0}^{1}\frac{1}{1+x^2}dx"/>
 
+* **BBP formula** : 
+  > <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;\pi=\int_{0}^{1}\frac{16y-16}{y^4-2y^3+4y-4}dy"/>
+  [Referance](https://mathworld.wolfram.com/PiFormulas.html "Wolfram Mathworld")
 
-<!-- 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2+4ac}}{2a}"/>
+* **BBP formula** : A rapidly converging BBP-type formula found by **F. Bellard**
+  > <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;\pi=\frac{1}{2^6}\sum_{n=0}^{\infty}\frac{(-1)^n}{2^{10n}}\left(-\frac{2^5}{4n+1}-\frac{1}{4n+3}+\frac{2^8}{10n+1}-\frac{2^6}{10n+3}-\frac{2^2}{10n+5}-\frac{2^2}{10n+7}+\frac{1}{10n+9}\right)"/>
+  [Referance](https://mathworld.wolfram.com/PiFormulas.html "Wolfram Mathworld")
 
- -->
+<!-- <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;x=\frac{-b\pm\sqrt{b^2+4ac}}{2a}"/>
+
+
+<img src="https://latex.codecogs.com/gif.latex?\dpi{5000}\alpha&space;+&space;\frac{2\beta}{\gamma}"> -->

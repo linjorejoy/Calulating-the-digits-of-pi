@@ -45,7 +45,7 @@ Here i scoured the internet to find the different ways to calculate the digits o
   [Referance](https://mathworld.wolfram.com/PiFormulas.html "Wolfram Mathworld")
 
 14. **Viète's formula** : infinite product of nested radicals named after **François Viète**
-  > <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;\frac{2}{\pi}=\frac{\sqrt{2}}{2}.\frac{\sqrt{2 + \sqrt{2}}}{2}.\frac{\sqrt{2 + \sqrt{2 + \sqrt{2}}}}{2}..."/>
+  > <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;\frac{2}{\pi}=\frac{\sqrt{2}}{2}.\frac{\sqrt{2+\sqrt{2}}}{2}.\frac{\sqrt{2+\sqrt{2+\sqrt{2}}}}{2}..."/>
 
 <!-- <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;x=\frac{-b\pm\sqrt{b^2+4ac}}{2a}"/>
 

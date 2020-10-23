@@ -44,6 +44,9 @@ Here i scoured the internet to find the different ways to calculate the digits o
   > <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;\pi=\frac{1}{2^6}\sum_{n=0}^{\infty}\frac{(-1)^n}{2^{10n}}\left(-\frac{2^5}{4n+1}-\frac{1}{4n+3}+\frac{2^8}{10n+1}-\frac{2^6}{10n+3}-\frac{2^2}{10n+5}-\frac{2^2}{10n+7}+\frac{1}{10n+9}\right)"/>
   [Referance](https://mathworld.wolfram.com/PiFormulas.html "Wolfram Mathworld")
 
+14. **Viète's formula** : infinite product of nested radicals named after **François Viète**
+  > <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;\frac{2}{\pi}=\frac{\sqrt{2}}{2}.\frac{\sqrt{2 + \sqrt{2}}}{2}.\frac{\sqrt{2 + \sqrt{2 + \sqrt{2}}}}{2}..."/>
+
 <!-- <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;x=\frac{-b\pm\sqrt{b^2+4ac}}{2a}"/>
 
 

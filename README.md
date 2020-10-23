@@ -114,6 +114,24 @@ Here i scoured the internet to find the different ways to calculate the digits o
       <img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{\pi^2}{8}=\frac{1}{1^2}+\frac{1}{3^2}+\frac{1}{5^2}+\frac{1}{7^2}+\frac{1}{9^2}.....">
     </details>
 
+19. **Gregory-Leibniz Series - V** :  Gregory-Leibniz Series
+    <details>
+    <summary>Click to view Formula</summary>
+      <img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{\pi^3}{32}=\frac{1}{1^3}-\frac{1}{3^3}+\frac{1}{5^3}-\frac{1}{7^3}+\frac{1}{9^3}.....">
+    </details>
+
+20. **Gregory-Leibniz Series - VI** :  Gregory-Leibniz Series
+    <details>
+    <summary>Click to view Formula</summary>
+      <img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{5\pi^5}{1536}=\frac{1}{1^5}-\frac{1}{3^5}+\frac{1}{5^5}-\frac{1}{7^5}+\frac{1}{9^5}.....">
+    </details>
+
+21. **Gregory-Leibniz Series - VII** :  Gregory-Leibniz Series
+    <details>
+    <summary>Click to view Formula</summary>
+      <img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{\pi^6}{960}=\frac{1}{1^6}+\frac{1}{3^6}+\frac{1}{5^6}+\frac{1}{7^6}+\frac{1}{9^6}.....">
+    </details>
+
 <!-- 
 Format for adding python scripts
 

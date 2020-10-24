@@ -51,7 +51,7 @@ Here i scoured the internet to find the different ways to calculate the digits o
       <img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{\pi}{2}=\int_{-1}^{1}\sqrt{1-x^2}dx">
     </details>
 
-9. **[Euler's Convergence Improvement Transformation]()** 
+9. **[Euler's Convergence Improvement Transformation](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Euler%20Convergence.py "Go to Script")** 
     <details>
     <summary>Click to view Formula</summary>
       <img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{\pi}{2}=\sum_{n=0}^{\infty}\frac{n!}{(2n+1){!!}}"/>

@@ -133,14 +133,21 @@ Here i scoured the internet to find the different ways to calculate the digits o
       <img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{\pi^6}{960}=\frac{1}{1^6}+\frac{1}{3^6}+\frac{1}{5^6}+\frac{1}{7^6}+\frac{1}{9^6}.....">
     </details>
 
+
+22. **[Continued Fractions-I](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Continued%20Fractions-I.py "Go to Code")** 
+    <details>
+    <summary>Click to view Formula</summary>
+      <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;\pi=3+\frac{1^2}{6+\frac{3^2}{6+\frac{5^2}{6+\frac{7^2}{6+...}}}}">
+    </details>
+
 <!-- 
 Format for adding python scripts
 
-1. **Heading** : <A small Definition>
-   <details>
-   <summary>Click to view Formula</summary>
-      <img src="https://latex.codecogs.com/gif.latex?\dpi{5000}\alpha&space;+&space;\frac{2\beta}{\gamma}">
-   </details>
+22. **[Heading](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/smtg.py "Go to Code")** 
+    <details>
+    <summary>Click to view Formula</summary>
+      <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;\pi=">
+    </details>
  -->
 <!-- <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;x=\frac{-b\pm\sqrt{b^2+4ac}}{2a}"/>
 

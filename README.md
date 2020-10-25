@@ -59,6 +59,12 @@ Here i scoured the internet to find the different ways to calculate the digits o
       <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;\pi=\frac{4}{1+\frac{1^2}{2+\frac{3^2}{2+\frac{5^2}{2+..}}}}">
     </details>
 
+7. **[Continued Fractions-IV](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Continued%20Fractions-IV.py "Go to Code")** 
+    <details>
+    <summary>Click to view Formula</summary>
+      <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;2\pi=6+\frac{2^2}{12+\frac{6^2}{12+\frac{10^2}{12+\frac{14^2}{12+...}}}}">
+    </details>
+
 8. **[Euler's Convergence Improvement Transformation](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Euler%20Convergence.py "Go to Script")** 
     <details>
     <summary>Click to view Formula</summary>

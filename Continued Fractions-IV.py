@@ -1,6 +1,7 @@
 
 
 import math
+import timeit
 
 def getPi(noOfIterations):
     piValue = math.pow(noOfIterations*4-2, 2) / (12)

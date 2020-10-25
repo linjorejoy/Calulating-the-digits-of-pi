@@ -159,3 +159,136 @@ SEARCH AND REPLACE
 \*\*([A-Za-z \-'è]*)\*\*
 **[$1]()** 
 -->
+
+<br>
+<br>
+<i>To Be filled</i>
+
+
+<table>
+<caption>Time taken</caption>
+  <tr>
+    <th>Script Name\No Of Iterations</th>
+    <th>1</th>
+    <th>10</th>
+    <th>20</th>
+    <th>100</th>
+    <th>500</th>
+    <th>1000</th>
+  </tr>
+  <tr>
+  <tr>
+    <td>Archemedes Method</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Basel Problem - I</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+
+
+
+<table>
+<caption>Accuracy</caption>
+  <tr>
+    <th>Script Name\No Of Iterations</th>
+    <th>1</th>
+    <th>10</th>
+    <th>20</th>
+    <th>100</th>
+    <th>500</th>
+    <th>1000</th>
+  </tr>
+  <tr>
+  <tr>
+    <td>Archemedes Method</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Basel Problem - I</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+
+
+<table>
+<caption>Memory Usage</caption>
+  <tr>
+    <th>Script Name\No Of Iterations</th>
+    <th>1</th>
+    <th>10</th>
+    <th>20</th>
+    <th>100</th>
+    <th>500</th>
+    <th>1000</th>
+  </tr>
+  <tr>
+  <tr>
+    <td>Archemedes Method</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Basel Problem - I</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>

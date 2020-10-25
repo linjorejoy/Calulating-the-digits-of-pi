@@ -321,7 +321,8 @@ SEARCH AND REPLACE
     </tr>
 </table>
 </details>
-
+<html>
+<body>
 <style>
 .collapsible {
   background-color: #777;
@@ -366,3 +367,5 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
+</body>
+</html>

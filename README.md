@@ -1,7 +1,7 @@
 # Calclate the digits of 𝜋
 ---
 
-Here i scoured the internet to find the different ways to calculate the digits of 𝜋
+Here I scoured the internet to find the different ways to calculate the digits of 𝜋
 
 1. **[Archemedes method](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Archemedes%20method.py "Go to Script")** : Archemedes method is used 
     <details>
@@ -13,6 +13,7 @@ Here i scoured the internet to find the different ways to calculate the digits o
     <details>
     <summary>Click to view Formula</summary>
       <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;\pi=\int_{0}^{1}\frac{16y-16}{y^4-2y^3+4y-4}dy"/>
+
       [Referance](https://mathworld.wolfram.com/PiFormulas.html "Wolfram Mathworld")
     </details>
 
@@ -20,6 +21,7 @@ Here i scoured the internet to find the different ways to calculate the digits o
     <details>
     <summary>Click to view Formula</summary>
       <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;\pi=\frac{1}{2^6}\sum_{n=0}^{\infty}\frac{(-1)^n}{2^{10n}}\left(-\frac{2^5}{4n+1}-\frac{1}{4n+3}+\frac{2^8}{10n+1}-\frac{2^6}{10n+3}-\frac{2^2}{10n+5}-\frac{2^2}{10n+7}+\frac{1}{10n+9}\right)"/>
+
       [Referance](https://mathworld.wolfram.com/PiFormulas.html "Wolfram Mathworld")
     </details>
 

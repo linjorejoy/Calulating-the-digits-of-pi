@@ -53,6 +53,12 @@ Here i scoured the internet to find the different ways to calculate the digits o
       <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;\pi=\frac{4}{1+\frac{1^2}{3+\frac{2^2}{5+\frac{3^2}{7+...}}}}">
     </details>
 
+7. **[Continued Fractions-III](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Continued%20Fractions-III.py "Go to Code")** 
+    <details>
+    <summary>Click to view Formula</summary>
+      <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;\pi=\frac{4}{1+\frac{1^2}{2+\frac{3^2}{2+\frac{5^2}{2+..}}}}">
+    </details>
+
 8. **[Euler's Convergence Improvement Transformation](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Euler%20Convergence.py "Go to Script")** 
     <details>
     <summary>Click to view Formula</summary>

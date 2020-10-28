@@ -175,7 +175,7 @@ Format for adding python scripts
 22. **[Heading](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/smtg.py "Go to Code")** 
     <details>
     <summary>Click to view Formula</summary>
-      <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;\pi=">
+      <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=">
     </details>
  -->
 <!-- <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;x=\frac{-b\pm\sqrt{b^2+4ac}}{2a}"/>

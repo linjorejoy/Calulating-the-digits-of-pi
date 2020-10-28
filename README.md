@@ -123,49 +123,49 @@ Here I scoured the internet to find the different ways to calculate the digits o
       <img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{\pi}{2}=\int_{-1}^{1}\sqrt{1-x^2}dx">
     </details>
 
-17. **[Issac Newtons's Method](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Issac%20Newtons%20Method.py "Go to Script")** : Got inspiration from Matt Parker's "Calculate pi by    hand Video [Youtube video](https://www.youtube.com/watch?v=CKl1B8y4qXw "Matt Parker's video")
+22. **[Infinite Series-I](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Infinite%20Series-I.py "Go to Code")** 
+    <details>
+    <summary>Click to view Formula</summary>
+      <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=\frac{1}{Z}">
+      <br>
+
+      <img src="https://latex.codecogs.com/svg.latex?\Large&space;Z=\sum_{n=0}^{\infty}\frac{((2n)!)^3(42n+5)}{(n!)^616^{3n+1}}">
+    </details>
+
+23. **[Issac Newtons's Method](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Issac%20Newtons%20Method.py "Go to Script")** : Got inspiration from Matt Parker's "Calculate pi by    hand Video [Youtube video](https://www.youtube.com/watch?v=CKl1B8y4qXw "Matt Parker's video")
     <details>
     <summary>Click to view Formula</summary>
        <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=\frac{3\sqrt{3}}{4}+24\left(\frac{1}{12}-\frac{1}{5.2^5}-\frac{1}{7.2^9}-\frac{1}{9.2^{12}}-.....\right)">
     </details>  
 
-18. **[Nilakantha Series](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Nilakantha%20Series.py "Go to Script")** : Nilakantha Series
+24. **[Nilakantha Series](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Nilakantha%20Series.py "Go to Script")** : Nilakantha Series
     <details>
     <summary>Click to view Formula</summary>
       <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=3+\frac{4}{2\times3\times4}+\frac{4}{4\times5\times6}+\frac{4}{6\times7\times8}.....">
     </details>
 
-19. **[Ramanujan's Method](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Ramanujan's%20Method.py "Go to Script")** : Srinivasa Ramanujan's Method using Modular arithmetic
+25. **[Ramanujan's Method](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Ramanujan's%20Method.py "Go to Script")** : Srinivasa Ramanujan's Method using Modular arithmetic
     <details>
     <summary>Click to view Formula</summary>
       <img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{1}{\pi}=\frac{2\sqrt{2}}{9801}\sum_{k=0}^{\infty}\frac{(4k)!(1103+26390k)}{(k!)^4(396^{4k})}">
     </details>
 
-20. **[Spigot Algorithm](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Spigot%20Algorithm.py "Go to Script")** : Spigot Algorithm
+26. **[Spigot Algorithm](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Spigot%20Algorithm.py "Go to Script")** : Spigot Algorithm
     <details>
     <summary>Click to view Formula</summary>
       <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=\sum_{k=0}^{k=\infty}\frac{1}{16^k}\left(\frac{4}{8k+1}-\frac{2}{8k+4}-\frac{1}{8k+5}-\frac{1}{8k+6}\right)">
     </details>
 
-21. **[Viète's formula](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Viete%20Formuls.py "Go to Script")** : infinite product of nested radicals named after **François Viète**
+27. **[Viète's formula](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Viete%20Formuls.py "Go to Script")** : infinite product of nested radicals named after **François Viète**
     <details>
     <summary>Click to view Formula</summary>
       <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;\frac{2}{\pi}=\frac{\sqrt{2}}{2}.\frac{\sqrt{2+\sqrt{2}}}{2}.\frac{\sqrt{2+\sqrt{2+\sqrt{2}}}}{2}..."/>
     </details>
 
-22. **[From Known Identity Of Inverse Trignometric Function](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/taninverse.py "Go to Script")**
+28. **[From Known Identity Of Inverse Trignometric Function](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/taninverse.py "Go to Script")**
     <details>
     <summary>Click to view Formula</summary>
        <img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{\pi}{4}=\tan^{-1}(1)=\int_{0}^{1}\frac{1}{1+x^2}dx"/>
-    </details>
-
-22. **[Infinite Series-I](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Infinite%20Series-I.py "Go to Code")** 
-    <details>
-    <summary>Click to view Formula</summary>
-      <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;\pi=\frac{1}{Z}">
-      <br>
-      
-      <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;Z=\sum_{n=0}^{\infty}\frac{((2n)!)^3(42n+5)}{(n!)^616^{3n+1}}">
     </details>
 
 

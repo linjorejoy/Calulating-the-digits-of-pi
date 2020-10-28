@@ -164,6 +164,7 @@ Here I scoured the internet to find the different ways to calculate the digits o
     <summary>Click to view Formula</summary>
       <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;\pi=\frac{1}{Z}">
       <br>
+      
       <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;Z=\sum_{n=0}^{\infty}\frac{((2n)!)^3(42n+5)}{(n!)^616^{3n+1}}">
     </details>
 

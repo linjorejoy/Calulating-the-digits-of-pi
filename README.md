@@ -159,6 +159,14 @@ Here I scoured the internet to find the different ways to calculate the digits o
        <img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{\pi}{4}=\tan^{-1}(1)=\int_{0}^{1}\frac{1}{1+x^2}dx"/>
     </details>
 
+22. **[Infinite Series-I](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Infinite%20Series-I.py "Go to Code")** 
+    <details>
+    <summary>Click to view Formula</summary>
+      <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;\pi=\frac{1}{Z}">
+      <br>
+      <img src="https://latex.codecogs.com/svg.latex?\dpi{800}\Large&space;Z=\sum_{n=0}^{\infty}\frac{((2n)!)^3(42n+5)}{(n!)^616^{3n+1}}">
+    </details>
+
 
 <!-- 
 Format for adding python scripts

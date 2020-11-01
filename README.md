@@ -132,6 +132,15 @@ Here I scoured the internet to find the different ways to calculate the digits o
       <img src="https://latex.codecogs.com/svg.latex?\Large&space;Z=\sum_{n=0}^{\infty}\frac{((2n)!)^3(42n+5)}{(n!)^616^{3n+1}}">
     </details>
 
+22. **[Infinite Series-II](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Infinite%20Series-II.py "Go to Code")** 
+    <details>
+    <summary>Click to view Formula</summary>
+      <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=\frac{4}{Z}">
+      <br>
+      <img src="https://latex.codecogs.com/svg.latex?\Large&space;Z=\sum_{n=0}^{\infty}\frac{(-1)^n(4n)!(21460n+1123)}{(n!)^4441^{2n+1}2^{10n+1}}">
+
+    </details>
+
 23. **[Issac Newtons's Method](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Issac%20Newtons%20Method.py "Go to Script")** : Got inspiration from Matt Parker's "Calculate pi by    hand Video [Youtube video](https://www.youtube.com/watch?v=CKl1B8y4qXw "Matt Parker's video")
     <details>
     <summary>Click to view Formula</summary>

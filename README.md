@@ -6,7 +6,7 @@ Here I scoured the internet to find the different ways to calculate the digits o
 1. **[Archemedes method](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/Archemedes%20method.py "Go to Script")** : Archemedes method is used 
     <details>
     <summary>Click to view Formula</summary>
-      <img src="https://latex.codecogs.com/svg.latex?\Large&space;\lim_{n\to\infty}n\sin(\frac{180}{n})">
+      <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=\lim_{n\to\infty}n\sin(\frac{180}{n})">
     </details>
 
 2. **[BBP formula( Bailey–Borwein–Plouffe formula)-I](https://github.com/linjorejoy/Calulating-the-digits-of-pi/blob/master/BBP%20Formula%20-%20I.py "Go to Script")** : 
